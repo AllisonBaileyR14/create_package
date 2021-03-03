@@ -26,3 +26,9 @@ library(devtools)
 library(tidyverse)
 ```
 
+```{r}
+# read in function
+source("fish_distribution.R")
+
+```
+
