@@ -1,0 +1,28 @@
+---
+title: "create_package"
+author: "Allison Bailey"
+date: "3/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+With your group from Assignment 4
+
+* create a package
+
+* add your function from Assignment 4 to the package
+
+* add one additional function from each group member (you can use the function you created for Assignment 4)
+
+* submit github link
+
+Review documentation.RMD
+
+```{r}
+library(devtools)
+
+library(tidyverse)
+```
+
